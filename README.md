@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRodrigues662&theme=tokyonight&show_icons=true&count_private=true)
 
