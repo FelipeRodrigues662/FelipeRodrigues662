@@ -1,6 +1,6 @@
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRodrigues662&theme=tokyonight&show_icons=true&count_private=true)
 
 <!--
 **FelipeRodrigues662/FelipeRodrigues662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
