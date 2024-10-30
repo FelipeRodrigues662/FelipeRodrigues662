@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi how are you?<br>My name is Felipe Rodrigues,<br>I am 19 years old,<br>I study at the Federal University of Viçosa,<br>And I work at Framework Digital,<br>With .NET development.
+Hi how are you?<br>My name is Felipe Rodrigues,<br>I am 21 years old,<br>I study at the Federal University of Viçosa,<br>And I work at Randstad Brasil,<br>With Outsystems development.
 
 
 ## 🌐 Socials:
